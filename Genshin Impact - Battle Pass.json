@@ -12,6 +12,14 @@
       "groups": {
         "Battle Pass": "/proxy/api/imgur/chapter/xaLO6iH"
       }
+    },
+    "2": {
+      "title": "Team Electro-Ayato",
+      "volume": "",
+      "last_updated": "1650557099",
+      "groups": {
+        "Builds": "/proxy/api/imgur/chapter/Byvjgsy"
+      }
     }
   }
 }
