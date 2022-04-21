@@ -1,0 +1,17 @@
+{
+  "title": "Genshin Comic Compilations",
+  "description": "",
+  "artist": "Kurocrimson",
+  "author": "Kurocrimson",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Volume 1",
+      "volume": "1",
+      "last_updated": "1650572246",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EN9JRMb"
+      }
+    }
+  }
+}
