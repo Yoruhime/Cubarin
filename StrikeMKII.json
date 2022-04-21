@@ -1,0 +1,129 @@
+{
+  "title": "Strike_MKII GI Fancomic",
+  "description": "",
+  "artist": "Strike_MKII",
+  "author": "Strike_MKII",
+  "cover": "https://i.imgur.com/8Cl1UjB.png",
+  "chapters": {
+    "1": {
+      "title": "出会いの後",
+      "volume": "1",
+      "last_updated": "1650567153",
+      "groups": {
+        "": [
+          "https://i.imgur.com/utXHSaA.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "モナとの邂逅の先に塵歌壺を貰えたら",
+      "volume": "2",
+      "last_updated": "1650567535",
+      "groups": {
+        "": [
+          "https://i.imgur.com/uASlCrx.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "ある日、ジン団長対エウルアの件ってやつ",
+      "volume": "3",
+      "last_updated": "1650567618",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bBKpPU1"
+      }
+    },
+    "4": {
+      "title": "雷電将軍の調整が可笑しくなった （落書き）",
+      "volume": "4",
+      "last_updated": "1650567983",
+      "groups": {
+        "": [
+          "https://i.imgur.com/wCpMf3T.png"
+        ]
+      }
+    },
+    "5": {
+      "title": "旅人の空くん、彼の右と左に問題が",
+      "volume": "5",
+      "last_updated": "1650568056",
+      "groups": {
+        "": [
+          "https://i.imgur.com/5yajedG.png"
+        ]
+      }
+    },
+    "6": {
+      "title": "ティータイムの出会い",
+      "volume": "6",
+      "last_updated": "1650568167",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/quXsRgs"
+      }
+    },
+    "7": {
+      "title": "将軍の調整の試運転",
+      "volume": "7",
+      "last_updated": "1650568397",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yUZaWTP"
+      }
+    },
+    "8": {
+      "title": "九条裟羅とお見合い",
+      "volume": "8",
+      "last_updated": "1650568605",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vciNwPD"
+      }
+    },
+    "9": {
+      "title": "煙緋に自分のタイプと彼女自身に教える話",
+      "volume": "9",
+      "last_updated": "1650568804",
+      "groups": {
+        "": [
+          "https://i.imgur.com/RdNSfNh.png"
+        ]
+      }
+    },
+    "10": {
+      "title": "しばらくモンドから離れていたでジンと再会。(落書き)",
+      "volume": "10",
+      "last_updated": "1650568829",
+      "groups": {
+        "": [
+          "https://i.imgur.com/6uwiMmP.png"
+        ]
+      }
+    },
+    "11": {
+      "title": "ある日、鳴神大社で。",
+      "volume": "11",
+      "last_updated": "1650568886",
+      "groups": {
+        "": [
+          "https://i.imgur.com/RvBFxCL.png"
+        ]
+      }
+    },
+    "12": {
+      "title": "西風騎士団に。",
+      "volume": "12",
+      "last_updated": "1650568917",
+      "groups": {
+        "": [
+          "https://i.imgur.com/oGnip9Z.png"
+        ]
+      }
+    },
+    "13": {
+      "title": "久しぶりにモナと再会する",
+      "volume": "13",
+      "last_updated": "1650568998",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RmluI3W"
+      }
+    }
+  }
+}
