@@ -1,0 +1,17 @@
+{
+  "title": "Genshin Impact",
+  "description": "",
+  "artist": "",
+  "author": "Yoruhime",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Battle Pass",
+      "volume": "",
+      "last_updated": "1650556813",
+      "groups": {
+        "Battle Pass": "/proxy/api/imgur/chapter/xaLO6iH"
+      }
+    }
+  }
+}
