@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Battle Pass",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1650556813",
       "groups": {
         "Battle Pass": "/proxy/api/imgur/chapter/xaLO6iH"
@@ -15,10 +15,26 @@
     },
     "2": {
       "title": "Team Electro-Ayato",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1650557099",
       "groups": {
         "Builds": "/proxy/api/imgur/chapter/Byvjgsy"
+      }
+    },
+    "3": {
+      "title": "Farm Artefacts",
+      "volume": "3",
+      "last_updated": "1650569654",
+      "groups": {
+        "Farm": "/proxy/api/imgur/chapter/oryVOrY"
+      }
+    },
+    "4": {
+      "title": "Farm Spectres",
+      "volume": "3",
+      "last_updated": "1650569603",
+      "groups": {
+        "Farm": "/proxy/api/imgur/chapter/0yiJII6"
       }
     }
   }
