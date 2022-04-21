@@ -1,0 +1,17 @@
+{
+  "title": "Gazette de Teyvat",
+  "description": "",
+  "artist": "Hoyoverse",
+  "author": "Paimon",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Gazette de Teyvat #1",
+      "volume": "1",
+      "last_updated": "1650558365",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bBQ5QS8"
+      }
+    }
+  }
+}
