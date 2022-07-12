@@ -14,11 +14,19 @@
       }
     },
     "2": {
-      "title": "Gazette de Teyvat #1",
+      "title": "Gazette de Teyvat #2",
       "volume": "2",
       "last_updated": "1653731702",
       "groups": {
         "": "/proxy/api/imgur/chapter/CcJ58KJ"
+      }
+    },
+    "3": {
+      "title": "Gazette de Teyvat #3",
+      "volume": "3",
+      "last_updated": "1657618531",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ETNRT9m"
       }
     }
   }
