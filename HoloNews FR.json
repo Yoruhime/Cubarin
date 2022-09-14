@@ -4,5 +4,14 @@
   "artist": "Too many peeps",
   "author": "/r/Holonews",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "36": {
+      "title": "HoloNews 2022-08-29 09-04",
+      "volume": "",
+      "last_updated": "1663179197",
+      "groups": {
+        "HoloNews 2022-08-29 09-04": "/proxy/api/imgur/chapter/SsrEvIz"
+      }
+    }
+  }
 }
